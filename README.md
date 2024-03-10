@@ -38,7 +38,7 @@ Loading animation with one `color`
 ```dart
 Scaffold(
     body: Center(
-      child: LoadingAnimationWidget.staggeredDotWave(
+      child: LoadingAnimationWidget.staggeredDotsWave(
         color: Colors.white,
         size: 200,
       ),
